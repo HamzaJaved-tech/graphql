@@ -1,0 +1,26 @@
+[
+     {
+        "id":1,
+        "name":"Seven Habits of highly effective people",
+        "genre":"Personal Management",
+        "authorID":1
+     },
+     {
+        "id":2,
+        "name":"Rich dad poor dad",
+        "genre":"Financial management",
+        "authorID":2
+     },
+     {
+        "id":3,
+        "name":"Forty rules of love",
+        "genre":"Sufism",
+        "authorID":3
+     },
+     {
+        "id":4,
+        "name":"8th habit",
+        "genre":"Personal Management",
+        "authorID":1
+     }
+  ]
